@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.phantotv" version="1.0.0" name="PhantoTV Repo" provider-name="Phantom">
+    <extension point="xbmc.addon.repository" name="PhantoTV Repository">
+        <info>https://boniface40a.github.io/dasphantomfilmix/repository.phantotv/addons.xml</info>
+        <checksum>https://boniface40a.github.io/dasphantomfilmix/repository.phantotv/addons.xml.md5</checksum>
+        <datadir>https://boniface40a.github.io/dasphantomfilmix/repository.phantotv/zips/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Repository for PhantoTV APK Installer</summary>
+    </extension>
+</addon>
